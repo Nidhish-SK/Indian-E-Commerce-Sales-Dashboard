@@ -14,4 +14,4 @@ Recommended Structure and Order
 
 Business Impact & Insights: Payment Modes: COD dominates sales volume but yields lower profit margins compared to Credit Card and EMI. Cities: Indore, Mumbai, and Mathura contribute significantly to overall sales, highlighting regional strongholds. States: Certain Indian states emerge as high-sales regions, guiding expansion strategies. Categories: Chairs and Printers generate the highest sales among sub-categories. Seasonality: Sales peak in January–March and dip mid-year, indicating strong seasonality effects.
 
-Screenshots / Demos: Example: [Dashboard Preview].(https://github.com/shakthi1720/Indian-E-Commerce-Sales-Dashboard/blob/main/Indian%20E-Commerce%20Sales%20Dashboard.png)
+
